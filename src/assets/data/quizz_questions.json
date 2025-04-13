@@ -1,55 +1,55 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Qual personagem de Crepúsculo você seria?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Qual dessas características mais combina com você?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Misterioso(a)", "alias":"A"},
+        {"id": 2, "name":"Protetor(a)", "alias":"B"},
+        {"id": 3, "name":"Charmoso(a)", "alias":"A"},
+        {"id": 4, "name":"Carinhoso(a)", "alias":"B"},
+        {"id": 5, "name":"Perigoso(a)", "alias":"A"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Qual lugar você prefere?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Floresta", "alias":"A"},
+        {"id": 2, "name":"Praia", "alias":"B"},
+        {"id": 3, "name":"Montanhas", "alias":"B"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "O que você mais valoriza em alguém?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Coragem", "alias":"B"},
+        {"id": 2, "name":"Beleza", "alias":"A"},
+        {"id": 3, "name":"Força", "alias":"A"},
+        {"id": 4, "name":"Lealdade", "alias":"B"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Se pudesse escolher um poder, qual seria?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Velocidade sobre-humana", "alias":"A"},
+        {"id": 2, "name":"Comunicação com animais", "alias":"B"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Qual dessas frases mais combina com você?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Perigo é meu sobrenome.", "alias":"A"},
+        {"id": 2, "name":"Sempre protegerei quem eu amo.", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você seria Edward Cullen! Misterioso(a), charmoso(a) e com um ar perigoso.",
+    "B": "Você seria Jacob Black! Leal, protetor(a) e com um coração enorme."
   }
 }
